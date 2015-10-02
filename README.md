@@ -6,5 +6,6 @@ All the all home/.<config> ubuntu file
 * Npm, bower, meteor
 * Sublime Text 3, Package Manager
 * Eclipse
-* Skype
+* Skype, Scala
 * Google Chrome (beta or nighly)
+* Apache Spark (Prediction.io)
