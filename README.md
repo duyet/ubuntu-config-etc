@@ -9,6 +9,10 @@ sudo apt-get install --yes nodejs
 ```
 
 * Npm, bower, meteor
+```sh
+npm i -g bower meteor
+```
+
 * Sublime Text 3, Package Manager
 * Eclipse
 * Skype, Scala
